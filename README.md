@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MYSELF-SAYAN
+- 👋 Hi, I’m SAYAN MUKHERJEE
 - 👀 I’m interested in Front-End Development
 - 🌱 I’m currently learning DSA in CPP
 -
