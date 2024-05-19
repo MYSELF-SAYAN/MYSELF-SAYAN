@@ -1,7 +1,7 @@
-[![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)](https://rishavchanda.io)
+[![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)]
 <h1 align="center">Hi 👋, I'm Sayan Mukherjee</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
-<img align="right" alt="gif" width="400" src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fn8agw6z2smyb1.gif"/>
+(img align="right" alt="Coding" width="400" src="https://i.redd.it/n8agw6z2smyb1.gif")
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myself-sayan&label=Profile%20views&color=0e75b6&style=flat" alt="myself-sayan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=myself-sayan" alt="myself-sayan" /></a> </p>
