@@ -1,4 +1,4 @@
-[![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)]
+![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)
 <h1 align="center">Hi 👋, I'm Sayan Mukherjee</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
