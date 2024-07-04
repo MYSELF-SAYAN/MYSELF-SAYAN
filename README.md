@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myself-sayan&label=Profile%20views&color=0e75b6&style=flat" alt="myself-sayan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=myself-sayan" alt="myself-sayan" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/itz_sayan_03" target="blank"><img src="https://img.shields.io/twitter/follow/itz_sayan_03?logo=twitter&style=for-the-badge" alt="itz_sayan_03" /></a> </p>
 <img align="right" alt="Coding" width="360" src="https://i.redd.it/n8agw6z2smyb1.gif"/>
