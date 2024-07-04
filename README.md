@@ -2,10 +2,14 @@
 <h1 align="center">Hi 👋, I'm Sayan Mukherjee</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=myself-sayan&label=Profile%20views&color=0e75b6&style=flat" alt="myself-sayan" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=myself-sayan&label=Profile%20views&color=0e75b6&style=flat" alt="myself-sayan" /> </p>-->
 
 
+## 🚦 Profile Traffic
 
+  <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudokmaar&label=Profile%20views&color=0e75b6&style=flat" alt="sudokmaar" /> </p> -->
+
+![Visitors](http://moe-counter-krfg.onrender.com/get/@MYSELF-SAYAN?theme=rule34)
 <p align="left"> <a href="https://twitter.com/itz_sayan_03" target="blank"><img src="https://img.shields.io/twitter/follow/itz_sayan_03?logo=twitter&style=for-the-badge" alt="itz_sayan_03" /></a> </p>
 <img align="right" alt="Coding" width="360" src="https://i.redd.it/n8agw6z2smyb1.gif"/>
 - 🔭 I’m currently Studying Computer Science
